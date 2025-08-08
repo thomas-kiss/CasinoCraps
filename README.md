@@ -1,2 +1,2 @@
-# RollDice
-Simulates a game of craps
+# CasinoCraps
+Simulates a simplified game of craps
