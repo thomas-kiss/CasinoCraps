@@ -1,2 +1,2 @@
 # CasinoCraps
-Simulates a simplified game of craps
+A simple python CLI craps dice game
